@@ -5,21 +5,84 @@
     "home_page_url": "https://nibzen.github.io/Studio",
     "feed_url": "https://nibzen.github.io/Studio/feed.json",
     "user_comment": "",
+    "icon": "https://nibzen.github.io/Studio/media/website/Nibzen-Square-Logo-Clay.png",
     "author": {
         "name": "c"
     },
     "items": [
         {
-            "id": "https://nibzen.github.io/Studio/test.html",
-            "url": "https://nibzen.github.io/Studio/test.html",
-            "title": "Test",
+            "id": "https://nibzen.github.io/Studio/contact.html",
+            "url": "https://nibzen.github.io/Studio/contact.html",
+            "title": "Contact",
+            "summary": "&hellip;",
+            "content_html": "<a href=\"https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/viewform?usp=sf_link\" target=\"_blank\" rel=\"noopener noreferrer\">Click here to contact us</a>",
+            "image": "https://nibzen.github.io/Studio/media/posts/6/black-and-white-elderly-grayscale-1266005.jpg",
             "author": {
                 "name": "c"
             },
             "tags": [
             ],
-            "date_published": "2019-11-04T06:34:08+05:30",
-            "date_modified": "2019-11-04T06:34:08+05:30"
+            "date_published": "2019-11-04T14:48:52+05:30",
+            "date_modified": "2019-11-04T14:58:48+05:30"
+        },
+        {
+            "id": "https://nibzen.github.io/Studio/blog.html",
+            "url": "https://nibzen.github.io/Studio/blog.html",
+            "title": "Blog",
+            "summary": "&hellip;",
+            "content_html": "This page may be updated soon",
+            "author": {
+                "name": "c"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-04T14:47:34+05:30",
+            "date_modified": "2019-11-04T14:47:34+05:30"
+        },
+        {
+            "id": "https://nibzen.github.io/Studio/values.html",
+            "url": "https://nibzen.github.io/Studio/values.html",
+            "title": "Values",
+            "summary": "&hellip;",
+            "content_html": "<strong>quality:</strong> we keep pushing the boundaries towards perfection <br><br><strong>serendipity:</strong> we are constantly seeking cross-disciplinary inspiration from the world around us<br><br><strong>simplicity:</strong> simplicity is the ultimate sophistication<br><br><strong>subtlety:</strong> what is subtle often more effective than what is loud<br><br><strong>balance:</strong> we are creatively revitalized by the interplay between a balanced mind, spirit, and body, <br><br><strong>learning:</strong> we are constantly researching markets, industries, and consumer behaviour<br><br><strong>understanding:</strong> we take the time to understand our clients unique needs, in-depth<br><br><strong>fairness:</strong> we always operate with a win-win mindset",
+            "image": "https://nibzen.github.io/Studio/media/posts/4/arrow-asphalt-direction-1745766.jpg",
+            "author": {
+                "name": "c"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-04T14:46:47+05:30",
+            "date_modified": "2019-11-04T14:46:47+05:30"
+        },
+        {
+            "id": "https://nibzen.github.io/Studio/services.html",
+            "url": "https://nibzen.github.io/Studio/services.html",
+            "title": "Services",
+            "summary": "&hellip;",
+            "content_html": "<strong>content:</strong> our core strength is crafting crisp, compelling content backed by in-depth research. Artifacts include thought leadership articles, case studies, whitepapers, and blog posts<br><br><strong>creatives:</strong> we integrate design with carefully chosen words to create a memorable impact; our design expertise extends to print and online banners and advertisments, video and animation scripting and production, and branded gift items<br><br><strong>communications:</strong> we enhance and manage the content and branding on your communications channels whether it be websites, microsites, social media handles, blogs, mailers, or newsletters",
+            "image": "https://nibzen.github.io/Studio/media/posts/3/art-art-work-artist-3028959.jpg",
+            "author": {
+                "name": "c"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-04T14:44:04+05:30",
+            "date_modified": "2019-11-04T14:44:04+05:30"
+        },
+        {
+            "id": "https://nibzen.github.io/Studio/about.html",
+            "url": "https://nibzen.github.io/Studio/about.html",
+            "title": "About",
+            "summary": "&hellip;",
+            "content_html": "Nibzen is a niche branding and content development studio, specializing in thought leadership, content strategy, and visual branding.<br><br>At Nibzen, inexhaustibly passionate writers and designers are hard at work crafting impactful creatives that amplify brand impact.<br><br>The leitmotif of Nibzen’s communication artefacts is the masterful harmony of logic and creativity that arouses attention, interest, and desire, both in the hearts and the minds of even jaded audiences.",
+            "image": "https://nibzen.github.io/Studio/media/posts/2/DSCN0875.JPG",
+            "author": {
+                "name": "c"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-04T14:36:22+05:30",
+            "date_modified": "2019-11-04T14:40:43+05:30"
         }
     ]
 }
