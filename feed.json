@@ -15,7 +15,7 @@
             "url": "https://nibzen.github.io/Studio/contact-nibzen-studio.html",
             "title": "Contact",
             "summary": "&hellip;",
-            "content_html": "<iframe width=\"640\" height=\"747\" src=\"https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe> <!-- Default Statcounter code for Nibzen.com\nhttp://Nibzen.com -->\n<script type=\"text/javascript\">// <![CDATA[\nvar sc_project=12135751; \nvar sc_invisible=1; \nvar sc_security=\"1bddf871\";\n// ]]></script>\n<script type=\"text/javascript\" src=\"https://www.statcounter.com/counter/counter.js\" async=\"\"></script>\n<noscript><div class=\"statcounter\"><a title=\"Web Analytics\"\nhref=\"https://statcounter.com/\" target=\"_blank\"><img\nclass=\"statcounter\"\nsrc=\"https://c.statcounter.com/12135751/0/1bddf871/1/\"\nalt=\"Web Analytics\"></a></div></noscript><!-- End of Statcounter Code -->",
+            "content_html": "If you would, fill out the form below. We'd love to hear form you!\n<p><iframe width=\"640\" height=\"747\" src=\"https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe> <!-- Default Statcounter code for Nibzen.com\nhttp://Nibzen.com -->\n<script type=\"text/javascript\">// <![CDATA[\nvar sc_project=12135751; \nvar sc_invisible=1; \nvar sc_security=\"1bddf871\";\n// ]]></script>\n<script type=\"text/javascript\" src=\"https://www.statcounter.com/counter/counter.js\" async=\"\"></script>\n<noscript><div class=\"statcounter\"><a title=\"Web Analytics\"\nhref=\"https://statcounter.com/\" target=\"_blank\"><img\nclass=\"statcounter\"\nsrc=\"https://c.statcounter.com/12135751/0/1bddf871/1/\"\nalt=\"Web Analytics\"></a></div></noscript><!-- End of Statcounter Code --></p>",
             "image": "https://nibzen.github.io/Studio/media/posts/6/Contact-16by9.png",
             "author": {
                 "name": "c"
@@ -23,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2019-11-04T14:48:52+05:30",
-            "date_modified": "2019-11-06T13:40:23+05:30"
+            "date_modified": "2019-11-15T21:11:02+05:30"
         },
         {
             "id": "https://nibzen.github.io/Studio/blog.html",

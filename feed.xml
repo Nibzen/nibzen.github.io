@@ -3,7 +3,7 @@
     <title>Nibzen</title>
     <link href="https://nibzen.github.io/Studio/feed.xml" rel="self" />
     <link href="https://nibzen.github.io/Studio" />
-    <updated>2019-11-06T14:18:16+05:30</updated>
+    <updated>2019-11-15T21:11:11+05:30</updated>
     <author>
         <name>c</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://nibzen.github.io/Studio/contact-nibzen-studio.html"/>
         <id>https://nibzen.github.io/Studio/contact-nibzen-studio.html</id>
 
-        <updated>2019-11-06T13:40:23+05:30</updated>
+        <updated>2019-11-15T21:11:02+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nibzen.github.io/Studio/media/posts/6/Contact-16by9.png" alt="" />
@@ -27,7 +27,8 @@
         <content type="html">
             <![CDATA[
                     <img src="https://nibzen.github.io/Studio/media/posts/6/Contact-16by9.png" alt="" />
-                <iframe width="640" height="747" src="https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> <!-- Default Statcounter code for Nibzen.com
+                If you would, fill out the form below. We'd love to hear form you!
+<p><iframe width="640" height="747" src="https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> <!-- Default Statcounter code for Nibzen.com
 http://Nibzen.com -->
 <script type="text/javascript">// <![CDATA[
 var sc_project=12135751; 
@@ -39,7 +40,7 @@ var sc_security="1bddf871";
 href="https://statcounter.com/" target="_blank"><img
 class="statcounter"
 src="https://c.statcounter.com/12135751/0/1bddf871/1/"
-alt="Web Analytics"></a></div></noscript><!-- End of Statcounter Code -->
+alt="Web Analytics"></a></div></noscript><!-- End of Statcounter Code --></p>
             ]]>
         </content>
     </entry>
