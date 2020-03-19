@@ -3,7 +3,7 @@
     <title>Nibzen</title>
     <link href="https://nibzen.github.io/feed.xml" rel="self" />
     <link href="https://nibzen.github.io" />
-    <updated>2020-03-19T19:37:54+05:30</updated>
+    <updated>2020-03-19T20:00:52+05:30</updated>
     <author>
         <name>c</name>
     </author>
@@ -16,6 +16,8 @@
         </author>
         <link href="https://nibzen.github.io/test-2-2/"/>
         <id>https://nibzen.github.io/test-2-2/</id>
+            <category term="Blogpost"/>
+            <category term="Aha"/>
 
         <updated>2020-03-19T19:32:45+05:30</updated>
             <summary>
@@ -36,6 +38,8 @@
         </author>
         <link href="https://nibzen.github.io/test-2/"/>
         <id>https://nibzen.github.io/test-2/</id>
+            <category term="Blogpost"/>
+            <category term="Aha"/>
 
         <updated>2020-03-19T19:35:11+05:30</updated>
             <summary>
