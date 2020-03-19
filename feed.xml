@@ -3,32 +3,12 @@
     <title>Nibzen</title>
     <link href="https://nibzen.github.io/feed.xml" rel="self" />
     <link href="https://nibzen.github.io" />
-    <updated>2020-03-19T20:05:42+05:30</updated>
+    <updated>2020-03-19T20:14:16+05:30</updated>
     <author>
         <name>c</name>
     </author>
     <id>https://nibzen.github.io</id>
 
-    <entry>
-        <title>Home</title>
-        <author>
-            <name>c</name>
-        </author>
-        <link href="https://nibzen.github.io/home/"/>
-        <id>https://nibzen.github.io/home/</id>
-
-        <updated>2020-03-19T20:03:17+05:30</updated>
-            <summary>
-                <![CDATA[
-                    &hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                Welcome to Nibzen Studio. Have a look around and do reach out to us through the contact page.
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Test 2</title>
         <author>
@@ -42,7 +22,7 @@
         <updated>2020-03-19T19:32:45+05:30</updated>
             <summary>
                 <![CDATA[
-                    &hellip;
+                    Testing
                 ]]>
             </summary>
         <content type="html">
@@ -61,11 +41,11 @@
             <category term="Blogpost"/>
             <category term="Aha"/>
 
-        <updated>2020-03-19T19:35:11+05:30</updated>
+        <updated>2020-03-19T20:09:30+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nibzen.github.io/media/posts/7/art-art-work-artist-3028959.jpg" alt="" />
-                    &hellip;
+                    Testing
                 ]]>
             </summary>
         <content type="html">
@@ -87,7 +67,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://nibzen.github.io/media/posts/6/Contact-16by9.png" alt="" />
-                    &hellip;
+                    If you would, fill out&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -110,7 +90,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://nibzen.github.io/media/posts/5/Blog-16-by-9.png" alt="" />
-                    &hellip;
+                    This page may be updated soon
                 ]]>
             </summary>
         <content type="html">
@@ -132,7 +112,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://nibzen.github.io/media/posts/4/Values-16-by-9.png" alt="" />
-                    &hellip;
+                    quality: we keep pushing the&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -154,7 +134,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://nibzen.github.io/media/posts/3/Services-16-by-9.png" alt="" />
-                    &hellip;
+                    content: our core strength is crafting&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -176,7 +156,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://nibzen.github.io/media/posts/2/About-16-by-9.png" alt="" />
-                    &hellip;
+                    Nibzen is a niche branding&hellip;
                 ]]>
             </summary>
         <content type="html">

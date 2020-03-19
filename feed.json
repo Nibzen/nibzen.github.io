@@ -11,24 +11,10 @@
     },
     "items": [
         {
-            "id": "https://nibzen.github.io/home/",
-            "url": "https://nibzen.github.io/home/",
-            "title": "Home",
-            "summary": "&hellip;",
-            "content_html": "Welcome to Nibzen Studio. Have a look around and do reach out to us through the contact page.",
-            "author": {
-                "name": "c"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-03-19T20:03:17+05:30",
-            "date_modified": "2020-03-19T20:03:17+05:30"
-        },
-        {
             "id": "https://nibzen.github.io/test-2-2/",
             "url": "https://nibzen.github.io/test-2-2/",
             "title": "Test 2",
-            "summary": "&hellip;",
+            "summary": "Testing",
             "content_html": "Testing",
             "author": {
                 "name": "c"
@@ -44,7 +30,7 @@
             "id": "https://nibzen.github.io/test-2/",
             "url": "https://nibzen.github.io/test-2/",
             "title": "Test",
-            "summary": "&hellip;",
+            "summary": "Testing",
             "content_html": "Testing",
             "image": "https://nibzen.github.io/media/posts/7/art-art-work-artist-3028959.jpg",
             "author": {
@@ -55,13 +41,13 @@
                    "Aha"
             ],
             "date_published": "2020-03-19T19:16:18+05:30",
-            "date_modified": "2020-03-19T19:35:11+05:30"
+            "date_modified": "2020-03-19T20:09:30+05:30"
         },
         {
             "id": "https://nibzen.github.io/contact-nibzen-studio/",
             "url": "https://nibzen.github.io/contact-nibzen-studio/",
             "title": "Contact",
-            "summary": "&hellip;",
+            "summary": "If you would, fill out&hellip;",
             "content_html": "If you would, fill out the form below. We'd love to hear form you!\n<p><iframe width=\"640\" height=\"747\" src=\"https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe></p>",
             "image": "https://nibzen.github.io/media/posts/6/Contact-16by9.png",
             "author": {
@@ -76,7 +62,7 @@
             "id": "https://nibzen.github.io/blog/",
             "url": "https://nibzen.github.io/blog/",
             "title": "Blog",
-            "summary": "&hellip;",
+            "summary": "This page may be updated soon",
             "content_html": "This page may be updated soon",
             "image": "https://nibzen.github.io/media/posts/5/Blog-16-by-9.png",
             "author": {
@@ -91,7 +77,7 @@
             "id": "https://nibzen.github.io/values/",
             "url": "https://nibzen.github.io/values/",
             "title": "Values",
-            "summary": "&hellip;",
+            "summary": "quality: we keep pushing the&hellip;",
             "content_html": "<strong>quality:</strong> we keep pushing the boundaries in our march towards perfection <br><br><strong>serendipity:</strong> we seek serendipitous cross-disciplinary inspiration from the world around us<br><br><strong>simplicity:</strong> we believe that simplicity is the ultimate sophistication<br><br><strong>subtlety:</strong> we have discovered that what is subtle is often quite more effective than what is loud<br><br><strong>balance:</strong> we are creatively revitalized by the interplay between a balanced mind, spirit, and body, <br><br><strong>learning:</strong> we are constantly researching markets, industries, and consumer behaviour<br><br><strong>understanding:</strong> we take the time to understand our clients unique needs, in-depth<br><br><strong>fairness:</strong> we always operate with a win-win mindset",
             "image": "https://nibzen.github.io/media/posts/4/Values-16-by-9.png",
             "author": {
@@ -106,7 +92,7 @@
             "id": "https://nibzen.github.io/nibzen-studio-services/",
             "url": "https://nibzen.github.io/nibzen-studio-services/",
             "title": "Services",
-            "summary": "&hellip;",
+            "summary": "content: our core strength is crafting&hellip;",
             "content_html": "<strong>content:</strong> our core strength is crafting crisp, compelling content backed by in-depth research. Artifacts include thought leadership articles, case studies, whitepapers, and blog posts<br><br><strong>creatives:</strong> we integrate design with carefully chosen words to create a memorable impact; our design expertise extends to print and online banners and advertisments, video and animation scripting and production, and branded gift items<br><br><strong>communications:</strong> we enhance and manage the content and branding on your communications channels whether it be websites, microsites, social media handles, blogs, mailers, or newsletters",
             "image": "https://nibzen.github.io/media/posts/3/Services-16-by-9.png",
             "author": {
@@ -121,7 +107,7 @@
             "id": "https://nibzen.github.io/about/",
             "url": "https://nibzen.github.io/about/",
             "title": "About",
-            "summary": "&hellip;",
+            "summary": "Nibzen is a niche branding&hellip;",
             "content_html": "Nibzen is a niche branding and content development studio, specializing in thought leadership, content strategy, and visual branding.<br><br>At Nibzen, inexhaustibly passionate writers and designers are hard at work crafting impactful creatives that amplify brand impact.<br><br>The leitmotif of Nibzen’s communication artefacts is the masterful harmony of logic and creativity that arouses attention, interest, and desire, both in the hearts and the minds of even jaded audiences.",
             "image": "https://nibzen.github.io/media/posts/2/About-16-by-9.png",
             "author": {
