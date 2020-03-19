@@ -41,21 +41,6 @@
             "date_modified": "2020-03-19T20:48:43+05:30"
         },
         {
-            "id": "https://nibzen.github.io/contact-nibzen-studio/",
-            "url": "https://nibzen.github.io/contact-nibzen-studio/",
-            "title": "Contact",
-            "summary": "If you would, fill out the form below. We'd love to hear form you!Loading…",
-            "content_html": "If you would, fill out the form below. We'd love to hear form you!\n<p><iframe width=\"640\" height=\"747\" src=\"https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe></p>",
-            "image": "https://nibzen.github.io/media/posts/6/Contact-16by9.png",
-            "author": {
-                "name": "c"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-11-04T14:48:52+05:30",
-            "date_modified": "2019-11-18T09:51:54+05:30"
-        },
-        {
             "id": "https://nibzen.github.io/values/",
             "url": "https://nibzen.github.io/values/",
             "title": "Values",

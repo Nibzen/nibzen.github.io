@@ -3,7 +3,7 @@
     <title>Nibzen</title>
     <link href="https://nibzen.github.io/feed.xml" rel="self" />
     <link href="https://nibzen.github.io" />
-    <updated>2020-03-19T21:28:41+05:30</updated>
+    <updated>2020-03-19T21:33:01+05:30</updated>
     <author>
         <name>c</name>
     </author>
@@ -72,29 +72,6 @@
 <h2 id="mcetoc_1e3plh6umf">Balancing the Three-legged Stool</h2>
 <p>Personalization, customization, and localization are the three legs of the customer orientation stool. Each one is needed and in the right lengths for a great customer experience. Getting the stool balanced requires not only a significant effort in understanding the customer, but several thoughtful decisions need to be made on questions such as the best trade-off between convenience and complexity, research costs and product pricing, and understanding consumer behavior better versus protecting consumers privacy concerns.</p>
 <p>Answering these questions right and implementing an effective customer orientation strategy is the key to succeed in getting your customers to make a bee line towards your door.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Contact</title>
-        <author>
-            <name>c</name>
-        </author>
-        <link href="https://nibzen.github.io/contact-nibzen-studio/"/>
-        <id>https://nibzen.github.io/contact-nibzen-studio/</id>
-
-        <updated>2019-11-18T09:51:54+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://nibzen.github.io/media/posts/6/Contact-16by9.png" alt="" />
-                    If you would, fill out the form below. We'd love to hear form you!Loading…
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://nibzen.github.io/media/posts/6/Contact-16by9.png" alt="" />
-                If you would, fill out the form below. We'd love to hear form you!
-<p><iframe width="640" height="747" src="https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
             ]]>
         </content>
     </entry>
