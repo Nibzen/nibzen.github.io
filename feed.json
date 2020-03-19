@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://nibzen.github.io/home/",
+            "url": "https://nibzen.github.io/home/",
+            "title": "Home",
+            "summary": "&hellip;",
+            "content_html": "Welcome to Nibzen Studio. Have a look around and do reach out to us through the contact page.",
+            "author": {
+                "name": "c"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-19T20:03:17+05:30",
+            "date_modified": "2020-03-19T20:03:17+05:30"
+        },
+        {
             "id": "https://nibzen.github.io/test-2-2/",
             "url": "https://nibzen.github.io/test-2-2/",
             "title": "Test 2",

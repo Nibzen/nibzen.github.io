@@ -3,12 +3,32 @@
     <title>Nibzen</title>
     <link href="https://nibzen.github.io/feed.xml" rel="self" />
     <link href="https://nibzen.github.io" />
-    <updated>2020-03-19T20:00:52+05:30</updated>
+    <updated>2020-03-19T20:05:42+05:30</updated>
     <author>
         <name>c</name>
     </author>
     <id>https://nibzen.github.io</id>
 
+    <entry>
+        <title>Home</title>
+        <author>
+            <name>c</name>
+        </author>
+        <link href="https://nibzen.github.io/home/"/>
+        <id>https://nibzen.github.io/home/</id>
+
+        <updated>2020-03-19T20:03:17+05:30</updated>
+            <summary>
+                <![CDATA[
+                    &hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Welcome to Nibzen Studio. Have a look around and do reach out to us through the contact page.
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Test 2</title>
         <author>
