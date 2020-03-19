@@ -3,7 +3,7 @@
     <title>Nibzen</title>
     <link href="https://nibzen.github.io/feed.xml" rel="self" />
     <link href="https://nibzen.github.io" />
-    <updated>2020-03-19T21:09:49+05:30</updated>
+    <updated>2020-03-19T21:22:23+05:30</updated>
     <author>
         <name>c</name>
     </author>
@@ -95,28 +95,6 @@
             <![CDATA[
                     <img src="https://nibzen.github.io/media/posts/4/Values-16-by-9.png" alt="" />
                 <strong>quality:</strong> we keep pushing the boundaries in our march towards perfection <br><br><strong>serendipity:</strong> we seek serendipitous cross-disciplinary inspiration from the world around us<br><br><strong>simplicity:</strong> we believe that simplicity is the ultimate sophistication<br><br><strong>subtlety:</strong> we have discovered that what is subtle is often quite more effective than what is loud<br><br><strong>balance:</strong> we are creatively revitalized by the interplay between a balanced mind, spirit, and body, <br><br><strong>learning:</strong> we are constantly researching markets, industries, and consumer behaviour<br><br><strong>understanding:</strong> we take the time to understand our clients unique needs, in-depth<br><br><strong>fairness:</strong> we always operate with a win-win mindset
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Services</title>
-        <author>
-            <name>c</name>
-        </author>
-        <link href="https://nibzen.github.io/nibzen-studio-services/"/>
-        <id>https://nibzen.github.io/nibzen-studio-services/</id>
-
-        <updated>2019-11-18T09:52:42+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://nibzen.github.io/media/posts/3/Services-16-by-9.png" alt="" />
-                    content: our core strength is crafting crisp, compelling content backed by in-depth research. Artifacts include thought leadership articles, case studies, whitepapers, and blog posts creatives: we integrate design with carefully chosen words to create a memorable impact; our design expertise extends to print and online banners and advertisments, video and animation scripting and production, and branded gift items communications: we enhance and manage the content and branding on your communications channels whether it be websites, microsites, social media handles, blogs, mailers, or newsletters
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://nibzen.github.io/media/posts/3/Services-16-by-9.png" alt="" />
-                <strong>content:</strong> our core strength is crafting crisp, compelling content backed by in-depth research. Artifacts include thought leadership articles, case studies, whitepapers, and blog posts<br><br><strong>creatives:</strong> we integrate design with carefully chosen words to create a memorable impact; our design expertise extends to print and online banners and advertisments, video and animation scripting and production, and branded gift items<br><br><strong>communications:</strong> we enhance and manage the content and branding on your communications channels whether it be websites, microsites, social media handles, blogs, mailers, or newsletters
             ]]>
         </content>
     </entry>
