@@ -3,12 +3,34 @@
     <title>Nibzen</title>
     <link href="https://nibzen.github.io/feed.xml" rel="self" />
     <link href="https://nibzen.github.io" />
-    <updated>2020-03-19T21:22:23+05:30</updated>
+    <updated>2020-03-19T21:24:32+05:30</updated>
     <author>
         <name>c</name>
     </author>
     <id>https://nibzen.github.io</id>
 
+    <entry>
+        <title>Services</title>
+        <author>
+            <name>c</name>
+        </author>
+        <link href="https://nibzen.github.io/services/"/>
+        <id>https://nibzen.github.io/services/</id>
+
+        <updated>2020-03-19T21:24:00+05:30</updated>
+            <summary>
+                <![CDATA[
+                    content: our core strength is crafting crisp, compelling content backed by in-depth research. Artifacts include thought leadership articles, case studies, whitepapers, and blog posts creatives: we integrate design with carefully chosen words to create a memorable impact; our design expertise extends to print and online banners and advertisments, video and animation scripting and production, and branded gift items communications: we enhance and manage the content and branding on your communications channels whether it be websites, microsites, social media handles, blogs, mailers, or newsletters
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>content:</strong> our core strength is crafting crisp, compelling content backed by in-depth research. Artifacts include thought leadership articles, case studies, whitepapers, and blog posts</p>
+<p><strong>creatives:</strong> we integrate design with carefully chosen words to create a memorable impact; our design expertise extends to print and online banners and advertisments, video and animation scripting and production, and branded gift items</p>
+<p><strong>communications:</strong> we enhance and manage the content and branding on your communications channels whether it be websites, microsites, social media handles, blogs, mailers, or newsletters</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bee Line Your Customers With Personalization, Customization, and Localization</title>
         <author>
