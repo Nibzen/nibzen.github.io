@@ -30,13 +30,14 @@
             "title": "Test",
             "summary": "&hellip;",
             "content_html": "Testing",
+            "image": "https://nibzen.github.io/media/posts/7/art-art-work-artist-3028959.jpg",
             "author": {
                 "name": "c"
             },
             "tags": [
             ],
             "date_published": "2020-03-19T19:16:18+05:30",
-            "date_modified": "2020-03-19T19:32:37+05:30"
+            "date_modified": "2020-03-19T19:35:11+05:30"
         },
         {
             "id": "https://nibzen.github.io/contact-nibzen-studio/",

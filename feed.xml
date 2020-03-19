@@ -3,7 +3,7 @@
     <title>Nibzen</title>
     <link href="https://nibzen.github.io/feed.xml" rel="self" />
     <link href="https://nibzen.github.io" />
-    <updated>2020-03-19T19:32:48+05:30</updated>
+    <updated>2020-03-19T19:36:13+05:30</updated>
     <author>
         <name>c</name>
     </author>
@@ -37,14 +37,16 @@
         <link href="https://nibzen.github.io/test-2/"/>
         <id>https://nibzen.github.io/test-2/</id>
 
-        <updated>2020-03-19T19:32:37+05:30</updated>
+        <updated>2020-03-19T19:35:11+05:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://nibzen.github.io/media/posts/7/art-art-work-artist-3028959.jpg" alt="" />
                     &hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://nibzen.github.io/media/posts/7/art-art-work-artist-3028959.jpg" alt="" />
                 Testing
             ]]>
         </content>
