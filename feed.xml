@@ -3,12 +3,35 @@
     <title>Nibzen</title>
     <link href="https://nibzen.github.io/feed.xml" rel="self" />
     <link href="https://nibzen.github.io" />
-    <updated>2020-03-19T21:38:48+05:30</updated>
+    <updated>2020-03-19T21:43:02+05:30</updated>
     <author>
         <name>c</name>
     </author>
     <id>https://nibzen.github.io</id>
 
+    <entry>
+        <title>Contact</title>
+        <author>
+            <name>c</name>
+        </author>
+        <link href="https://nibzen.github.io/contact-nibzen-studio-2/"/>
+        <id>https://nibzen.github.io/contact-nibzen-studio-2/</id>
+
+        <updated>2020-03-19T21:42:57+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nibzen.github.io/media/posts/13/Contact-16by9.png" alt="" />
+                    If you would, fill out the form below. We'd love to hear form you!Loading…
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nibzen.github.io/media/posts/13/Contact-16by9.png" alt="" />
+                If you would, fill out the form below. We'd love to hear form you!
+<p><iframe width="640" height="747" src="https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Services</title>
         <author>
