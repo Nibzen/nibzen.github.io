@@ -16,13 +16,14 @@
             "title": "Contact",
             "summary": "If you would, fill out the form below. We'd love to hear form you!Loading…",
             "content_html": "If you would, fill out the form below. We'd love to hear form you!\n<p><iframe width=\"640\" height=\"747\" src=\"https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe></p>",
+            "image": "https://nibzen.github.io/media/posts/14/Contact-16by9.png",
             "author": {
                 "name": "c"
             },
             "tags": [
             ],
             "date_published": "2020-03-19T21:49:46+05:30",
-            "date_modified": "2020-03-19T21:49:46+05:30"
+            "date_modified": "2020-03-20T10:51:14+05:30"
         },
         {
             "id": "https://nibzen.github.io/services/",
@@ -30,13 +31,14 @@
             "title": "Services",
             "summary": "content: our core strength is crafting crisp, compelling content backed by in-depth research. Artifacts include thought leadership articles, case studies, whitepapers, and blog posts creatives: we integrate design with carefully chosen words to create a memorable impact; our design expertise extends to print and online banners and advertisments, video and animation scripting and production, and branded gift items communications: we enhance and manage the content and branding on your communications channels whether it be websites, microsites, social media handles, blogs, mailers, or newsletters",
             "content_html": "<p><strong>content:</strong> our core strength is crafting crisp, compelling content backed by in-depth research. Artifacts include thought leadership articles, case studies, whitepapers, and blog posts</p>\n<p><strong>creatives:</strong> we integrate design with carefully chosen words to create a memorable impact; our design expertise extends to print and online banners and advertisments, video and animation scripting and production, and branded gift items</p>\n<p><strong>communications:</strong> we enhance and manage the content and branding on your communications channels whether it be websites, microsites, social media handles, blogs, mailers, or newsletters</p>",
+            "image": "https://nibzen.github.io/media/posts/12/Services-16-by-9.png",
             "author": {
                 "name": "c"
             },
             "tags": [
             ],
             "date_published": "2020-03-19T21:23:54+05:30",
-            "date_modified": "2020-03-19T21:24:00+05:30"
+            "date_modified": "2020-03-20T10:51:50+05:30"
         },
         {
             "id": "https://nibzen.github.io/bee-line-your-customers-with-personalization-customization-and-localization/",
