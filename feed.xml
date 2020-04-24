@@ -3,7 +3,7 @@
     <title>Nibzen</title>
     <link href="https://nibzen.com/feed.xml" rel="self" />
     <link href="https://nibzen.com" />
-    <updated>2020-04-24T23:54:30+05:30</updated>
+    <updated>2020-04-24T23:59:53+05:30</updated>
     <author>
         <name>c</name>
     </author>
@@ -17,17 +17,11 @@
         <link href="https://nibzen.com/test-3/"/>
         <id>https://nibzen.com/test-3/</id>
 
-        <updated>2020-04-24T23:54:26+05:30</updated>
-            <summary>
-                <![CDATA[
-                     Your browser does not support the audio element.
-                ]]>
-            </summary>
+        <updated>2020-04-24T23:59:36+05:30</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                <audio controls="controls">
-  <source src="https://github.com/Nibzen/nibzen.github.io/raw/master/media/files/200424_1636.mp3" type="audio/mpeg" />
-Your browser does not support the audio element.</audio>
+                <figure class="post__adui"><audio controls="controls" src="https://github.com/Nibzen/nibzen.github.io/raw/master/media/files/200424_1636.mp3"></audio></figure>
             ]]>
         </content>
     </entry>
